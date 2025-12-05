@@ -66,6 +66,9 @@ PKGS=(
     
     # --- Docker ---
     docker docker-compose
+
+    # --- X11 KDE ---
+    kwin-x11 plasma-x11-session
 )
 
 sudo pacman -S --noconfirm "${PKGS[@]}"
