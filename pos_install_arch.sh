@@ -1,10 +1,4 @@
 #!/bin/bash
-
-# ==============================================================================
-# SCRIPT DE PÓS-INSTALAÇÃO ARCH LINUX - PERFIL CRCODE (KDE / GAMING / PRODUÇÃO)
-# VERSÃO FINAL COM ALIASES PERSONALIZADOS
-# ==============================================================================
-
 GREEN='\033[0;32m'
 BLUE='\033[0;34m'
 RED='\033[0;31m'
